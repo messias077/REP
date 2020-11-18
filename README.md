@@ -1,2 +1,2 @@
 # REP
-Atividades da discliplina de Reconhecimento de Padrões
+Atividades da disciplina de Reconhecimento de Padrões
